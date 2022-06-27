@@ -99,7 +99,7 @@
 
     @media screen and (max-width: 1200px) {
         .results {
-            border: solid 1px #952531 !important;
+            border: solid 1px #ffffff !important;
             background-color: rgba(0, 0, 0, 0.55) !important;
             width: 49% !important;
             display: inline-block !important;
@@ -110,12 +110,12 @@
 
         .pool-name {
             color: #ffffff !important;
-            background: linear-gradient(to right, #27ae6082, #27ae60) !important;
+            background: linear-gradient(to right, #4f20e1, #153fd7) !important;
             width: 100% !important;
             font-size: 13px !important;
             font-weight: bold !important;
             text-align: center !important;
-            border-bottom: 1px solid #27ae6082 !important;
+            border-bottom: 1px solid #099aef82 !important;
         }
 
         .pool-date {
